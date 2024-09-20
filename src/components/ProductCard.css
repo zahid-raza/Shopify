@@ -1,0 +1,14 @@
+.Button{
+  margin-top: 20px;
+}
+
+.card{
+  width: 20%;
+  height: 50px;
+  margin-left: 55px;
+  
+}
+
+.card-body{
+  height: 200px;
+}
