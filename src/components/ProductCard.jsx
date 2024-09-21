@@ -1,4 +1,4 @@
-import "./Productcard.css";
+import "./ProductCard.css";
 // import myImage from "../Images/img1.jpg";
 import { useContext } from "react";
 import { ProductContext } from "../context/ProductContext";
